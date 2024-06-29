@@ -7,6 +7,7 @@ module.exports = withNextra(
     {
         output: "export",
         distDir: "out",
+        basePath: "/Doc_Projetos",
         images: {
             unoptimized: true,
         }
